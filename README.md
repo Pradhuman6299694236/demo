@@ -1,3 +1,3 @@
 # demo
 this is my first repo
-Author - pradhuman patel
+Author - pradhuman patel g
